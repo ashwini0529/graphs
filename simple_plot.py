@@ -6,7 +6,7 @@ plot(t, s)
 
 xlabel('time (s)')
 ylabel('voltage (mV)')
-title('About as simple as it gets, folks')
+title('So, a V-T graph!! ')
 grid(True)
 savefig("test.png")
 show()
